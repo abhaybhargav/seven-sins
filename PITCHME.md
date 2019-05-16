@@ -34,3 +34,7 @@ of Container Security
 ---
 # <!--fit--> 7. Running > 1 service / container
 ---
+![bg contain right](https://s3-us-west-2.amazonaws.com/appsecng-images/logo.png)
+* Follow [@abhaybhargav](https://www.twitter.com/abhaybhargav) on Twitter
+* Subscribe to this channel for more videos
+* [abhaybhargav.com](https://www.abhaybhargav.com)
