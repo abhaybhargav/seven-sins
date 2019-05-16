@@ -5,7 +5,7 @@ theme: uncover
 paginate: true
 _paginate: false
 ---
-![bg contain](https://github.com/abhaybhargav/seven-sins/blob/master/img/logo.png)
+![bg contain](https://s3-us-west-2.amazonaws.com/appsecng-images/logo.png)
 
 ---
 # <!--fit--> Seven Deadly Sins
